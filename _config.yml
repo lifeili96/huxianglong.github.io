@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: '韩双燕的独立博客'
-description: '平凡的生活'
-keyword: '女生，西班牙，二次元，设计'
-url: 'https://hanshuangyan.gitlab.io' # your host
+title: '胡祥龙的博客'
+description: '明月度关山'
+keyword: '男生，纽约客，上海，哲学，政治，心理，物理，计算机，数学，文学，古典，历史 '
+url: 'https://huxianglong.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -13,9 +13,9 @@ nav:
   tags: '/tags.html'
 
 # Author 配置博主信息
-author: '韩双燕'
-nickname: '双哥'
-bio: '小资，热爱设计，简单宅'
+author: '胡祥龙'
+nickname: '龙哥'
+bio: '纽约客，体验主义者，好奇，书呆子'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -25,9 +25,9 @@ search: true
 nightMode: true
 
 # Comments
-disqus: false
+disqus: true
 #disqus_url: 'https://liaokeyu.disqus.com/embed.js'
-disqus_url: 'https://hanshuangyan.disqus.com/embed.js'
+disqus_url: 'https://huxianglong.disqus.com/embed.js'
 
 
 # Share
@@ -35,17 +35,14 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'pink'  # pink or default
+theme-color: 'default'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
-postPatterns: 'circuitBoard'
+postPatterns: 'seaOfClouds'
 
 # SNS settings 配置社交网站url: weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  facebook: 'https://www.facebook.com/hxianglong'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
