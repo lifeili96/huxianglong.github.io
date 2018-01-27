@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '胡祥龙的博客'
-description: '明月度关山'
-keyword: '男生，纽约客，上海，哲学，政治，心理，物理，计算机，数学，文学，古典，历史 '
+title: '欲采苹花不自由'
+description: '粗通文字 初识物理 能吃一二两米酒 会使两三行程式  论霍胖是天下班头 喇叭腔也自风流'
+keyword: '准程序员，曾经是文学家，心理学家，物理学者，政治学者种子'
 url: 'https://huxianglong.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -15,14 +15,14 @@ nav:
 # Author 配置博主信息
 author: '胡祥龙'
 nickname: '龙哥'
-bio: '纽约客，体验主义者，好奇，书呆子'
+bio: '寄籍安徽，上海长成，复旦物理，纽大柯朗，现居泽西'
 avatar: '/assets/img/profile.jpg'
 
 # Search
 search: true
 
 # Night mode
-nightMode: true
+nightMode: false
 
 # Comments
 disqus: true
@@ -43,6 +43,7 @@ postPatterns: 'seaOfClouds'
 # SNS settings 配置社交网站url: weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   facebook: 'https://www.facebook.com/hxianglong'
+  linkedin: 'https://www.linkedin.com/in/xianglong-hu-354964153/'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
