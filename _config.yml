@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '欲采苹花不自由'
+title: '欲采蘋花不自由'
 description: '粗通文字 初识物理 能吃一二两米酒 会使两三行程式  论霍胖是天下班头 喇叭腔也自风流'
-keyword: '准程序员，曾经是文学家，心理学家，物理学者，政治学者种子'
+keyword: '准程序员，文学，心理，物理，政治的干枯种子'
 url: 'https://huxianglong.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -15,8 +15,8 @@ nav:
 # Author 配置博主信息
 author: '胡祥龙'
 nickname: '龙哥'
-bio: '寄籍安徽，上海长成，复旦物理，纽大柯朗，现居泽西'
-avatar: '/assets/img/profile.jpg'
+bio: '寄籍安徽，上海长成。复旦物理，纽大柯朗。曼岛隔岸，泽西是居。'
+avatar: '/assets/img/profile.png'
 
 # Search
 search: true
