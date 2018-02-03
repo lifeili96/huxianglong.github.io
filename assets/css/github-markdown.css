@@ -634,3 +634,14 @@ li p:nth-child(2) {
 .markdown-body hr {
   border-bottom-color: #eee;
 }
+.markdown-body .quote {
+    font-family: Consolas, "WenQuanYi Micro Hei";
+    padding:16px;
+    overflow:auto;
+    font-size:85%;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+    border-radius:3px;
+  color:green;
+}
+
