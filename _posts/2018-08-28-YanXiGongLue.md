@@ -5,7 +5,7 @@ subtitle: ''
 date: 2018-08-28
 categories: 日记 
 cover: '/assets/img/YanXiGongLue.jpg'
-tags: 日记
+tags: 评论
 ---
 这两天处在一种无事可做的惆怅之中，于是开始刷延禧攻略。
 

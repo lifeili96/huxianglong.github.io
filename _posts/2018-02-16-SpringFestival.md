@@ -5,7 +5,7 @@ subtitle: '满头尘土说功名'
 date: 2018-02-01
 categories: 生活 纽大 留学
 cover: '/assets/img/WenZhengMingTaoYuan.jpg'
-tags: 纽约 生活 随笔 诗 
+tags: 评论 诗 
 ---
 <p class='quote'>
 卷书凌乱笔纵横，对坐寒窗夜二更。

@@ -5,7 +5,7 @@ subtitle: '食少事烦，其能久乎'
 date: 2018-03-04
 categories: 生活 纽大 留学
 cover: '/assets/img/Paris.jpg'
-tags: 纽约 生活 随笔 诗 
+tags: 纽约 生活 
 ---
 <p class='quote'>
 我向来是不惮以最坏的恶意，来推测中国人的，然而我还不料，也不信竟会凶残到这地步。

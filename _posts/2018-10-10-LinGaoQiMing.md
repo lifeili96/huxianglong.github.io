@@ -5,7 +5,7 @@ subtitle: '失踪人口归来'
 date: 2018-10-10
 categories: 读书 评论
 cover: '/assets/img/TieQuanBaoJu.jpg'
-tags: 日记 读书 评论
+tags: 读书 评论
 ---
 开学以来我基本处于下线状态，一直沉浸在《临高启明》之中无法自拔。
 
